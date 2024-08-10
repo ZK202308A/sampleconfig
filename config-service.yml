@@ -1,2 +1,2 @@
 polar:
-  greeting: "Hello from config-service.yml"
+  greeting: "Welcome This message from config-service.yml"
